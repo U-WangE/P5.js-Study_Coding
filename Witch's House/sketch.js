@@ -1,5 +1,4 @@
-/*컴공 4학년인데 for 정도는 써도 되겠죠?ㅎㅎ;;
-16011034 박찬영
+/*
 참고 Image : https://www.pinterest.co.kr/pin/790592909576452455/
 */
 function setup() {
